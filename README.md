@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" alt="Bischi1997's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bischi1997&show_icons=true&hide_border=true" />
+<img align="left" alt="Bischi1997's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bischraf@students.zhaw.ch&show_icons=true&hide_border=true" />
