@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+][webdevplaylist]
 ## Hi there, I am Rafael - aka [Bischi1997][github] 👋
 - 🔭 I’m currently working on getting my bachelor in Computer Science
 - 🌱 I’m currently learning a lot
 
 ### Connect with me:
-[<img align="left" alt="github.com/Bischi1997" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="github.com/Bischi1997" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
