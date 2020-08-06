@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 ## Hi there, I am Rafael - aka [Bischi1997][github] 👋
 - 🔭 I’m currently working on getting my bachelor in Computer Science
 - 🌱 I’m currently learning a lot
-
+​
+20
 ### Connect with me:
+21
 [<img align="left" alt="github.com/Bischi1997" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
+22
+
+<\br>
 
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
