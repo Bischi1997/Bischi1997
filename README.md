@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...https://www.google.com/url?sa=i&url=https%3A%2F%2Fjetbrains.org%2Fintellij%2Fsdk%2Fdocs%2Freference_guide%2Fwork_with_icons_and_images.html&psig=AOvVaw3capA26uDlTXDdYy11ZR55&ust=1596782517448000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjWn8j8hesCFQAAAAAdAAAAABAD
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...<br />
 -->
 
 ## Hi there, I am Rafael - aka [Bischi1997][github] 👋
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
 
 ---
 
