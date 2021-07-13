@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there, I am Rafael - aka [Bischi1997][github] 👋
 - 🔭 I’m currently working on getting my bachelor in Computer Science
 - 🌱 I’m currently learning a lot
-- ⚡ Fun fact: I love to drive my Kawa around the alps.
+- ⚡ Fact about me: I love to drive my Kawa around the alps.
 
 
 ### Languages and Tools:
