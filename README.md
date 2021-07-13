@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### Languages and Tools:
-<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
+<img align="left" alt="IntelliJ" width="26px" src="https://banner2.cleanpng.com/20180713/pue/kisspng-intellij-idea-integrated-development-environment-c-php-logo-5b49211a05cb74.1521543515315192580237.jpg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
