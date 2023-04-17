@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...<br />
 -->
 
-## Hi there, I am Rafael - aka [Bischi1997][github] 👋
+## Hi there, I am Rafael Bischofberger - aka [Bischi1997][github] 👋
 - 🔭 I’m currently working on getting my bachelor in Computer Science
 - 🌱 I’m currently learning a lot
 - ⚡ Fact about me: I love to drive my Kawa around the alps.
